@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/ropasaurusrex-cddc-25/","tags":["gardenEntry"]}
 ---
 
+# Ropasaurusrex CDDC 25
 ```
 An old binary from a forgotten era still lingers in memory. 
 
